@@ -9,19 +9,22 @@ Free tools you can use:
 * [**PlantUML (online version)**](https://www.plantuml.com/plantuml/) – free UML diagrams
 
 Here’s a **Mermaid code snippet** (students can paste it directly into [mermaid.live](https://mermaid.live/) to get the diagram):
-
-```mermaid
 flowchart TD
     A[Start: Select Project Idea] --> B[Use AI Tools to Generate Content]
-    B --> C[Generate Cover Page & Certificate with Canva (Free)]
+
+    B --> C[Generate Cover Page & Certificate (Canva Free)]
     B --> D[Write Sections with ChatGPT/Gemini (Free Version)]
-    D --> E[Generate UML/Flowcharts using Draw.io/Mermaid (Free)]
-    E --> F[Proofread with Grammarly Free]
+
+    D --> E[Generate UML/Flowcharts (Draw.io / Mermaid Free)]
+
+    C --> F[Proofread with Grammarly Free]
+    E --> F
+
     F --> G[Format in Google Docs/Word]
     G --> H[Add References with Zotero Free]
     H --> I[Compile Final Black Book]
     I --> J[End: Submit Project Report]
-```
+
 
 ✅ Students can visualize the **flow from idea → AI prompts → diagrams → proofreading → final Black Book**.
 
