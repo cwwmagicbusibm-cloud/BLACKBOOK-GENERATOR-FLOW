@@ -8,7 +8,7 @@ Free tools you can use:
 * [**Mermaid.live**](https://mermaid.live/) – free text-to-diagram generator
 * [**PlantUML (online version)**](https://www.plantuml.com/plantuml/) – free UML diagrams
 
-Here’s a **Mermaid code snippet** (students can paste it directly into [mermaid.live](https://mermaid.live/) to get the diagram):
+```mermaid
 flowchart TD
     A[Start: Select Project Idea] --> B[Use AI Tools to Generate Content]
 
@@ -24,8 +24,7 @@ flowchart TD
     G --> H[Add References with Zotero Free]
     H --> I[Compile Final Black Book]
     I --> J[End: Submit Project Report]
-
-
+```
 ✅ Students can visualize the **flow from idea → AI prompts → diagrams → proofreading → final Black Book**.
 
 ---
